@@ -1,4 +1,8 @@
-# BASKA
+---
+title: BASKA
+---
+
+# Sweden 2018
 
 [BASKA-Sweden](//baska-sweden.co.za)
 
