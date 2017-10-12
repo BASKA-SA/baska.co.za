@@ -1,9 +1,5 @@
----
-title: BASKA
----
+# BASKA
 
-# Sweden 2018
+Site Code for [BASKA.co.za](https://baska.co.za)
 
-[BASKA-Sweden](//baska-sweden.co.za)
-
-[Sweden.BASKA](//sweden.baska.co.za)
+Theme: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) ([GitHub repo](https://github.com/mmistakes/minimal-mistakes))
