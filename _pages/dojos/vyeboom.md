@@ -12,4 +12,4 @@ Sensei(s):
 
 <br>
 
-[Facebook Page](https://www.facebook.com/Samurai-Karate-Vyeboom-739151739448725)
+[Facebook Page](https://www.facebook.com/Samurai-Karate-Vyeboom-739151739448725){: .btn .btn--info .btn--small}
