@@ -85,6 +85,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _pages/dojos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
