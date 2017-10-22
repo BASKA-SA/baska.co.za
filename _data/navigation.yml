@@ -2,13 +2,13 @@
 main:
   - title: "Our Story"
     url: /our-story
-  - title: "Calendar"
-    url: /calendar
-  - title: "News"
-    url: /news
   - title: "Get Involved"
     url: /get-involved
   - title: "Our Heroes"
     url: /senseis
   - title: "Our Dojos"
     url: /our-dojos
+  - title: "Calendar"
+    url: /calendar
+  - title: "News"
+    url: /news

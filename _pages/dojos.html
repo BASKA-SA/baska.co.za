@@ -35,13 +35,13 @@ permalink: /dojos/
                   {% endif %}
                 alt="">
               </div>
-              <h2 class="archive__item-title" itemprop="headline">
+            <h2 class="archive__item-title" itemprop="headline">
               {{ title }}
             </a>
             {% if page.link %}
               <a href="{{ page.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
             {% endif %}
-          </h2>
+            </h2>
           {% if page.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ page.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
         </article>
       </div>

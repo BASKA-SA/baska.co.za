@@ -10,6 +10,7 @@ title: Our Story
 ## Afiliates
 
 ### KSI
+[kimura-shukokai.com](http://www.kimura-shukokai.com)
 
 ### Sport Karate/UWKFSA
 
