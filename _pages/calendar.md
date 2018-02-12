@@ -1,5 +1,0 @@
----
-permalink: /calendar
-title: Calendar
----
-
