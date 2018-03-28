@@ -9,7 +9,7 @@ teaser: /assets/img/northpine.png
 
 Sensei(s): 
 
-### Times:
+### Training Hours:
 Monday: 18:00 - 20:00
 <br>Wednesday: 18:00 - 20:00
 

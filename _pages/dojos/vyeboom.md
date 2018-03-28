@@ -8,7 +8,7 @@ title: Vyeboom Dojo
 
 Sensei(s): 
 
-### Times:
+### Training Hours:
 
 <br>
 

@@ -8,7 +8,7 @@ title: Paarl Dojo
 
 Sensei(s): 
 
-### Times:
+### Training Hours:
 
 <br>
 

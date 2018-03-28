@@ -8,7 +8,7 @@ title: Groendal Dojo
 
 Sensei(s): 
 
-### Times:
+### Training Hours:
 
 <br>
 
